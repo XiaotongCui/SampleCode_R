@@ -10,3 +10,5 @@ Sorry if this causes confusion.
 The code can be divided into two parts. One is the data cleaning part, one is the data analysis part.
 The data cleaning part mostly turns the massive raw datasets into preferred data structures.
 In the data analysis part, we do data analysis to conduct different structures of regression analysis.
+
+Further introduction to the project and the result of the project can be found in the slides: "Social Connection and Vaccine Hesitancy Slides"
